@@ -1,0 +1,24 @@
+--------------------------------------------------------
+--  File created - Παρασκευή-Απριλίου-30-2021   
+--------------------------------------------------------
+@C:\g30\sqlgit\EBA_DEMO_FILE_PROJECTS.sql
+@C:\g30\sqlgit\EBA_DEMO_FILES.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_DEPT.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP_ERR_.sql
+@C:\g30\sqlgit\EBA_DEMO_FILE_PROJECTS_PK.sql
+@C:\g30\sqlgit\EBA_DEMO_FILES_PK.sql
+@C:\g30\sqlgit\EBA_DEMO_FILES_I2.sql
+@C:\g30\sqlgit\SYS_C0021671.sql
+@C:\g30\sqlgit\SYS_C0021673.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP_1.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP_2.sql
+@C:\g30\sqlgit\BIU_EBA_DEMO_FILE_PROJECTS.sql
+@C:\g30\sqlgit\BIU_EBA_DEMO_FILES.sql
+@C:\g30\sqlgit\BIU_EBA_DEMO_LOAD_EMP.sql
+@C:\g30\sqlgit\EBA_DEMO_FILE_PROJECTS_CONSTRAINT.sql
+@C:\g30\sqlgit\EBA_DEMO_FILES_CONSTRAINT.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_DEPT_CONSTRAINT.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP_CONSTRAINT.sql
+@C:\g30\sqlgit\EBA_DEMO_FILES_REFCONSTRAINT.sql
+@C:\g30\sqlgit\EBA_DEMO_LOAD_EMP_REFCONSTRAINT.sql

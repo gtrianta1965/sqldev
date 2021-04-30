@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table EBA_DEMO_LOAD_EMP
+--------------------------------------------------------
+
+  CREATE TABLE "EBA_DEMO_LOAD_EMP" ("EMPNO" NUMBER(4,0), "ENAME" VARCHAR2(10) COLLATE "USING_NLS_COMP", "JOB" VARCHAR2(9) COLLATE "USING_NLS_COMP", "MGR" NUMBER(4,0), "HIREDATE" DATE, "SAL" NUMBER(7,2), "COMM" NUMBER(7,2), "DEPTNO" NUMBER(2,0), "CREATED" DATE, "LAST_UPDATED" DATE)  DEFAULT COLLATION "USING_NLS_COMP"
